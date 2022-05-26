@@ -11,4 +11,4 @@ A Natural Language Processing project based on Restaurant reviews.
 4. RuntimeFile.py   (executable python file)
 
 
-![Screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](https://github.com/Parnabi/project/blob/main/Screenshot_1.png)
